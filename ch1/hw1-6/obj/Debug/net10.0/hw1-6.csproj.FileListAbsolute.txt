@@ -1,0 +1,14 @@
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/bin/Debug/net10.0/hw1-6
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/bin/Debug/net10.0/hw1-6.deps.json
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/bin/Debug/net10.0/hw1-6.runtimeconfig.json
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/bin/Debug/net10.0/hw1-6.dll
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/bin/Debug/net10.0/hw1-6.pdb
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.AssemblyInfoInputs.cache
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.AssemblyInfo.cs
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.csproj.CoreCompileInputs.cache
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.dll
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/refint/hw1-6.dll
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.pdb
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/hw1-6.genruntimeconfig.cache
+/Users/wangkaihan/Documents/Rocketcamp/ch1/hw1-6/obj/Debug/net10.0/ref/hw1-6.dll

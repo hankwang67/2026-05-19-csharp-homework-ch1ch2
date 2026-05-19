@@ -1,0 +1,14 @@
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/bin/Debug/net10.0/ch2-10
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/bin/Debug/net10.0/ch2-10.deps.json
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/bin/Debug/net10.0/ch2-10.runtimeconfig.json
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/bin/Debug/net10.0/ch2-10.dll
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/bin/Debug/net10.0/ch2-10.pdb
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.AssemblyInfoInputs.cache
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.AssemblyInfo.cs
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.csproj.CoreCompileInputs.cache
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.dll
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/refint/ch2-10.dll
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.pdb
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ch2-10.genruntimeconfig.cache
+/Users/wangkaihan/Documents/Rocketcamp/ch2/ch2-10/obj/Debug/net10.0/ref/ch2-10.dll
